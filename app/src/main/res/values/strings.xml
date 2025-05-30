@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="play">PLAY</string>
+    <string name="gamerank">GAME RANKING</string>
+    <string name="close">CLOSE</string>
+    <string name="record">YOUR RECORDS</string>
+</resources>
